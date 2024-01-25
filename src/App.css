@@ -1,0 +1,9 @@
+*{
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+span{
+    padding: 10px;
+    color: brown;
+}
